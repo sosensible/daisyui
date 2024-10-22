@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.6
+
+[compare changes](https://github.com/sosensible/nuxt-sosui/compare/v1.0.5...v1.0.6)
+
+### 🏡 Chore
+
+- **release:** V1.0.5 ([70eaad8](https://github.com/sosensible/nuxt-sosui/commit/70eaad8))
+
+### ❤️ Contributors
+
+- John Farrar ([@sosensible](http://github.com/sosensible))
+
 ## v1.0.5
 
 [compare changes](https://github.com/sosensible/nuxt-sosui/compare/v1.0.5...v1.0.5)
