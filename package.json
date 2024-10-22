@@ -1,6 +1,6 @@
 {
   "name": "nuxt-sosui",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "sosUI for Nuxt with TailwindCSS dependencies built in, including 'Prose' features.",
   "repository": "sosensible/nuxt-sosui",
   "license": "MIT",
@@ -31,8 +31,7 @@
   "dependencies": {
     "@nuxt/kit": "^3.13.2",
     "@nuxtjs/tailwindcss": "^6.12.2",
-    "@tailwindcss/typography": "^0.5.15",
-    "sosui": "^4.12.13"
+    "@tailwindcss/typography": "^0.5.15"
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.6.0",
