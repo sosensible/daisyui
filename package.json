@@ -1,6 +1,6 @@
 {
   "name": "nuxt-daisyui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DaisyUI for Nuxt with TailwindCSS dependencies built in, including 'Prose' features.",
   "repository": "sosensible/nuxt-daisyui",
   "license": "MIT",
