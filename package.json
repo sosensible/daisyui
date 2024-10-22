@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-daisyui",
-  "version": "1.0.1",
-  "description": "DaisyUI for Nuxt with TailwindCSS dependencies built in, including 'Prose' features.",
-  "repository": "sosensible/nuxt-daisyui",
+  "name": "nuxt-sosui",
+  "version": "1.0.2",
+  "description": "sosUI for Nuxt with TailwindCSS dependencies built in, including 'Prose' features.",
+  "repository": "sosensible/nuxt-sosui",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -32,7 +32,7 @@
     "@nuxt/kit": "^3.13.2",
     "@nuxtjs/tailwindcss": "^6.12.2",
     "@tailwindcss/typography": "^0.5.15",
-    "daisyui": "^4.12.13"
+    "sosui": "^4.12.13"
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.6.0",
